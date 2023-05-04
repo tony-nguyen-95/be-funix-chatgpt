@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publishes\Api\Funix.HannahAssistant</_PublishTargetUrl>
+    <History>True|2023-05-04T06:47:40.5582585Z;True|2023-05-03T19:16:12.7847911+07:00;True|2023-05-03T18:30:11.8909797+07:00;True|2023-05-03T18:23:23.2783845+07:00;False|2023-05-03T18:23:08.5190130+07:00;True|2023-05-03T15:47:41.2123786+07:00;True|2023-05-03T14:56:39.4244826+07:00;True|2023-05-02T20:54:17.9030294+07:00;True|2023-05-02T20:42:52.9327880+07:00;True|2023-05-02T19:48:19.6925010+07:00;True|2023-05-02T09:06:09.9634262+07:00;True|2023-04-30T00:25:07.9320833+07:00;True|2023-04-29T15:46:57.5219229+07:00;True|2023-04-28T20:28:18.1263487+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

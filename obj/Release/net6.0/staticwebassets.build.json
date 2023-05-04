@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pd6R2JqqIKSLy9iVw5CVIWVX6NdijqEKX6oWtOpyoZQ=",
+  "Source": "Funix.HannahAssistant.Api",
+  "BasePath": "_content/Funix.HannahAssistant.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
